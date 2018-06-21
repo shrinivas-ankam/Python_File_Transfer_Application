@@ -1,0 +1,24 @@
+step 1. Start the monogo db - done
+
+step 2. Check the table - done
+
+step 3. Start the server - done
+
+step 4. Start the client - done
+
+4a. test with existing file
+    i. small txt file - done
+
+    ii. big txt file - done
+
+    ii. doc file - done
+
+    iii. picture file - done
+
+4b. test with non-existing file - done  
+
+4c. quit - done
+
+step 5. check the db - done
+
+--- Finish ---

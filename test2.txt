@@ -1,0 +1,126 @@
+PROFILE SUMMARY
+* Have strong Agile experience, coaching teams to breath Agile, and put the Agile values in their DNA. Have worked as Agile Project Manager & Scrum Master leading Sprint planning, Backlog grooming, managing iterations & retrospectives etc.
+* Have good knowledge on DevOps tools like Git, GitHub, Maven, Jenkin etc., with this, currently working on transforming Operations into DevOps.
+* Have total experience of 15+ years in IT, leading all phases of diverse technology projects. Plan & execute medium & large sized projects, align business goals with technology solutions to drive process improvements. 
+* Experience working in USA and India on Development & Maintenance/Support projects with major telecommunication service providers across the globe.
+* Managed client expectations and demands proactively while maintaining good client relationships, to ensure effective application delivery within the required project timescales.
+* Have good knowledge on Unix Shell Scripting & Python, worked on several day-to-day task automations. 
+* Have active Australia PR with Skilled Independent Visa (subclass 189) as Primary Applicant, and active Business Visa (B1/B2) for USA.
+
+
+
+
+
+
+EDUCATION/CERTIFICATIONS
+
+
+* Bachelor of Engineering (Telecommunications) in year 2000 from University of Pune, India.
+* CSM, PSM-1, SAFe 4.0 Certified.
+* ITIL (Information Technology Infrastructure Library) from OGC.
+* PMP (Project Management Professional) from PMI, renewed until 2014.
+
+
+ENGAGEMENTS 
+
+Amdocs			       		       			April 2005 – May 2018 
+Avaya 			      					April 2004 – Mar 2005 
+Tata InfoTech Pvt. Ltd.						Feb 2004 – April 2004
+LionBridge Technologies						Dec 2002 – Feb 2004
+
+
+DETAILED WORK EXPERIENCE
+
+Company: Amdocs Development Centre India Pvt Ltd
+Duration: April 2014 – May 2018
+Role: Software Engineering Manager
+Manage Team Size: 18-20
+Project: Amdocs CES (Customer Experience Solutions – Front-End Applications like CRM, OMS, Web Portals and Back-End Applications like Billing, Account-Receivable etc.)
+
+Account/Client: All major worldwide telecom service providers like USCC, BCAN, AMX Chile, Telefonica Argentina, Telefonica Chile, Telefonica Peru, Net Brazil etc.
+Technologies: Java, Spring Framework, Spring Boot, Spring Data, Microservices, REST API etc.
+
+
+Roles and Responsibilities:
+ 
+Currently working as Software Engineering Manager to transform legacy Support Operations into DevOps, bringing all the associated benefits along with customer value. Also coaching other projects for “Being Agile” rather than “Doing Agile”. Previously worked as “Scrum Master” carrying out below responsibilities,
+
+* Facilitate the Scrum process. 
+* Help resolve impediments. 
+* Enforce time boxes and capture empirical data to adjust forecasts. 
+* Keep Scrum artifacts visible. 
+* Lead Backlog grooming, iteration planning meetings (IPM) and retrospectives. 
+* Internal trainings to build the team for Agile Concepts
+
+Additionally, performed below responsibilities prior to moving Agile Methodology.
+* Successfully handled multiple complex accounts/projects with varied business.
+* Experienced in implementing efficiency gain measures e.g. identifying automation needs, encouraging team to bring innovation & implementing ideas, etc. 
+* Built a team of local with extensive trainings and strategies built to transform the 24/7 support 
+* Participating in daily customer calls and presenting plans/status/project scope. 
+* High level of ownership & accountability and ensured that risks & issues are identified and managed closely. Ability to drive multiple stakeholders to deliver on time and to the required quality standards. 
+* Performance management including constructive timely feedback, setting effective goals and employee expectations to achieve unit targets.
+* Maintaining a living project plan throughout the project life cycle
+* Proactive monitoring of the plan and detects delays as early as possible
+* Provide practical and implementable solutions to development teams, Quality Assurance teams and design teams.
+
+Company: Amdocs Development Centre India Pvt Ltd
+Duration: Mar 2012 – April 2014
+Title: Group Leader
+Manage Team Size: 8 +
+Project: Amdocs CES (Customer Experience Solutions - CRM Application)
+Account/Client: Sprint, Metro PCS, Mobilicity
+Technologies: Java, Pro C, UNIX, Shell Programming, SQL, PLSQL
+
+Key roles and responsibilities:
+* Worked as a technical leader – led a sizable team to carry out development, testing and support tasks for various customer requirements.
+* Ensured adherence to stringent SLA of all operational and business processes.
+* Imparted various trainings on telecom fundamentals, C, UNIX at organization level.
+* Managed end-to-end application support of CRM application for prepaid / postpaid customers includes change requirement design, development, testing and deployment.
+* Provided RCA and Lessons Learnt for issues in the account (Pareto/fishbone analysis).
+* Experienced in ensuring short turnaround of bug-fixes, working in war-room mode, escalations & risk management.
+* Facilitated the Scrum process and helped resolve impediments.
+* Enforced time boxes and captured empirical data to adjust forecasts.
+* Kept Scrum artifacts visible and lead Backlog grooming, iteration planning meetings (IPM) and retrospectives.
+
+Company: Amdocs USA
+Duration: Feb 2007 – Feb 2012
+Title: System Analyst 
+Account/Client: T-Mobile USA 
+Technologies: COBOL, C, Pro C, UNIX, Shell Programming, SQL, PLSQL
+Project: Amdocs Ensemble Billing System (Account Receivable Application) -  Financial and collections Enhancements like Payment Arrangement, Deposits, Backout, Collection treatment, and Journaling.
+
+Key roles and responsibilities:
+* Includes all R&R from previous role/project
+* Development of new Change Request and Defect fixing, analyzing business requirements and providing the appropriate solutions. 
+* Implemented multiple get-well items and automations to enhance the operations
+* Customer facing, attending conference calls with customers related to new requirements or defect fixes.
+* Handled multiple release/upgrades.
+* Trained Amdocs applications to new team members.
+
+Company: Amdocs Development Centre India Pvt Ltd
+Duration: April 2005 – Feb 2007
+Title: Senior Subject Matter Expert
+Account/Client: Cable & Wireless
+Technologies: COBOL, C, Pro C, UNIX, Shell Programming, SQL, PLSQL
+Project: Amdocs Ensemble Billing System (Account Receivable Application) - Financial and collections Enhancements like Payment Arrangement, Deposits, Backout, Collection treatment, and Journaling.
+
+Key roles and responsibilities:
+* Involved in writing Impact Assessment / Detailed-Design for various customer’s requirements.
+* Involved in providing production support for the smooth run of billing system.
+* Prepared test calendar for executing UT/SST cases also performed code inspection.
+* Reconciliation for different Accounts Receivable processes.
+
+Companies: Avaya / Tata InfoTech Pvt. Ltd / LionBridge Technologies
+Duration: Dec 2002 – April 2005
+* Performed the role of software developer with writing code on various projects for different customers.
+* Prepared the UT/SST and executed the same.
+* Peer review of all the activities.
+
+SHRINIVAS ANKAM						shrinivas.ankam@gmail.com
+(CSM, PSM-1, SAFe®, PMP®, ITIL®)				+91 9309831380 / +91 7507266778
+
+
+
+<Page 1 of 3>
+
+
